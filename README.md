@@ -1,5 +1,8 @@
-## Project title
-PIAIC - Artificial Intelligence - **Assignments**
+![Picture](https://i.ibb.co/jH9TFG5/Logo-PIAIC-fb7de414.png)
+## Presidential Initiative
+## for
+## Artificial Intelligence and Computing
+**Assignments**
 
 ## Code style
 **PYTHON 3.7.3**
