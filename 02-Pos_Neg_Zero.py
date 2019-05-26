@@ -1,4 +1,4 @@
-# Ai Assignment - Check number is positive, negative or zero
+# Ai Assignment 02 - Check number is positive, negative or zero
 num = input("Koi Adad Dakhil Karein : ")
 try:
     num = float(num)

@@ -1,4 +1,4 @@
-# Ai Assignment - calculate number of days between two dates
+# Ai Assignment 05 - calculate number of days between two dates
 import datetime
 date1 = input("Enter First  Date [DD/MM/YYYY] : ")
 date2 = input("Enter Second Date [DD/MM/YYYY] : ")
