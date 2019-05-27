@@ -17,6 +17,13 @@ Presidential Initiative for Artificial Intelligence and Computing
 | 08-Is_Added_To_String.py | "Is" is Added to Front of String If Not There Already |
 | 09-N_Copies.py | N Copies of a String |
 | 10-Even_or_Odd.py | Calculate Whether a Given Number is Even or Odd |
+| 11-Test_for_Vowel.py | Test Whether a Passed Letter is a Vowel or Not |
+| 12-Area_of_Triangle.py | Accept The Base And Height Of a Triangle and Compute Area |
+| 13-Int_Values_are_Equal_or_Sum_or_Diff_is_5.py | Two Given Integer are Equal or Their Sum or Difference is 5 |
+| 14-X_plus_Y_Formula.py | Solve (X + Y) * (X + Y) |
+| 15-Future_Value_of_Rate_of_Interest_and_Years.py | Future Value from Amout, Rate of Interest & Years |
+
+
 
 ## Code style
 **PYTHON 3.7.3**
