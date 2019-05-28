@@ -1,5 +1,5 @@
 ![Picture](https://i.ibb.co/jH9TFG5/Logo-PIAIC-fb7de414.png)
-Presidential Initiative for Artificial Intelligence and Computing
+**Presidential Initiative for Artificial Intelligence and Computing**
 
 ## **Assignments**
 
@@ -21,7 +21,12 @@ Presidential Initiative for Artificial Intelligence and Computing
 | 12-Area_of_Triangle.py | Accept The Base And Height Of a Triangle and Compute Area |
 | 13-Int_Values_are_Equal_or_Sum_or_Diff_is_5.py | Two Given Integer are Equal or Their Sum or Difference is 5 |
 | 14-X_plus_Y_Formula.py | Solve (X + Y) * (X + Y) |
-| 15-Future_Value_of_Rate_of_Interest_and_Years.py | Future Value from Amout, Rate of Interest & Years |
+| 15-Future_Value_of_Rate_of_Interest_and_Years.py | Future Value from Amount, Rate of Interest & Years |
+| 16-Distance_Between_Two_Points.py | Distance between two Points (X1, Y1) and (X2, Y2) |
+| 17-Feet_to_Centimeter.py | Convert Height (In Feet and Inches) to Centimeters |
+| 18-Pythagorean_Theorem.py | Hypotenuse of a Right Angled Triangle |
+| 19-Convert_Distance_in_Inches.py | Convert the Distance (In Feet) to Inches, Yards, and Miles |
+| 20-Convert_all_Units_of_Time.py | Convert all Units of Time Into Seconds |
 
 
 
