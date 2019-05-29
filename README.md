@@ -19,14 +19,19 @@
 | 10-Even_or_Odd.py | Calculate Whether a Given Number is Even or Odd |
 | 11-Test_for_Vowel.py | Test Whether a Passed Letter is a Vowel or Not |
 | 12-Area_of_Triangle.py | Accept The Base And Height Of a Triangle and Compute Area |
-| 13-Int_Values_are_Equal_or_Sum_or_Diff_is_5.py | Two Given Integer are Equal or Their Sum or Difference is 5 |
+| 13-Check_Int_Equal_Sum_or_Diff.py | Two Given Integer are Equal or Their Sum or Difference is 5 |
 | 14-X_plus_Y_Formula.py | Solve (X + Y) * (X + Y) |
-| 15-Future_Value_of_Rate_of_Interest_and_Years.py | Future Value from Amount, Rate of Interest & Years |
+| 15-Future_Value_of_Rate_of_Interest.py | Future Value from Amount, Rate of Interest & Years |
 | 16-Distance_Between_Two_Points.py | Distance between two Points (X1, Y1) and (X2, Y2) |
 | 17-Feet_to_Centimeter.py | Convert Height (In Feet and Inches) to Centimeters |
 | 18-Pythagorean_Theorem.py | Hypotenuse of a Right Angled Triangle |
 | 19-Convert_Distance_in_Inches.py | Convert the Distance (In Feet) to Inches, Yards, and Miles |
-| 20-Convert_all_Units_of_Time.py | Convert all Units of Time Into Seconds |
+| 20-All_Units_of_Time_into_Seconds.py | Convert all Units of Time Into Seconds |
+| 21-Seconds_into_All_Units_of_Time.py | Convert Seconds into All Units Of Time |
+| 22-Calculate_Body_Mass_Index.py | Calculate Body Mass Index |
+| 23-Convert_Temperatures.py | Convert Temperatures to and from Celsius, Fahrenheit |
+| 24-Sum_of_First_n_Positive_integers.py | Sum of the First n Positive Integers |
+| 25-Sum_of_the_digits_in_an_Integer.py | Sum of the Digits in an Integer |
 
 
 
