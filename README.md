@@ -32,6 +32,11 @@
 | 23-Convert_Temperatures.py | Convert Temperatures to and from Celsius, Fahrenheit |
 | 24-Sum_of_First_n_Positive_integers.py | Sum of the First n Positive Integers |
 | 25-Sum_of_the_digits_in_an_Integer.py | Sum of the Digits in an Integer |
+| 26-Int_to_Bin_Oct_and_Hex.py | Convert an Integer to Binary, Octal and Hexadecimal Numbers |
+| 27-Bin_to_Decimal.py | Convert a Binary Number to Decimal Number |
+| 28-Octal_to_Decimal.py | Convert a Octal Number to Decimal Number |
+| 29-Hexadecimal_to_Decimal.py | Convert a Hexadecimal Number to Decimal Number |
+| 30-Occr_of_a_Specific_Chr_in_String.py | Count Number Occurrence of a Specific Character in a String |
 
 
 
