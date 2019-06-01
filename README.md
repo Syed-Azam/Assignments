@@ -37,6 +37,16 @@
 | 28-Octal_to_Decimal.py | Convert a Octal Number to Decimal Number |
 | 29-Hexadecimal_to_Decimal.py | Convert a Hexadecimal Number to Decimal Number |
 | 30-Occr_of_a_Specific_Chr_in_String.py | Count Number Occurrence of a Specific Character in a String |
+| 31-GCD_using_Euclidean.py | Compute The Greatest Common Divisor (Gcd) Of Two Positive Integers Using Euclidean Algorithm |
+| 32-Least_Common_Multiple.py | Compute The Least Common Multiple of Two Positive Integers |
+| 33-Name_in_Reverse_Order.py | Accept User's First And Last Name And Print Them In Reverse Order With A Space Between Them |
+| 34-Vowels_and_Consonant.py | Input A Text And Count The Occurrences Of Vowels And Consonant |
+| 35-Number_of_Currency_Notes.py | Find The Number Of Notes (Sample Of Notes: 10, 20, 50, 100, 500, And 1000 ) |
+| 36-Palindrome_or_Not.py | Check Whether Given Input Is Palindrome Or Not |
+| 37-Reverse_the_Digits_Palindrome_Repeat.py | Reverse The Digits Of A Given Number And Add It To The Original, If The Sum Is Not A Palindrome Repeat |
+| 38-Fibonacci_Series_Between_0_and_50.py | Get The Fibonacci Series Between 0 To 50 |
+| 39-Multiplication_Table_1_to_10.py | Create The Multiplication Table (From 1 To 10) Of A Number |
+| 40-Calculate_No_of_Digits_and_Letters.py | Accepts A String And Calculate The Number Of Digits And Letters Sample Data |
 
 
 
