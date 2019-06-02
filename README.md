@@ -3,7 +3,7 @@
 
 ## **Python Assignments**
 
-### Projects
+### Project Files
 
 | File Name | Description |
 | ------ | ------ |
