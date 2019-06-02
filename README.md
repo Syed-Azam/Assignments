@@ -47,6 +47,9 @@
 | 38-Fibonacci_Series_Between_0_and_50.py | Get The Fibonacci Series Between 0 To 50 |
 | 39-Multiplication_Table_1_to_10.py | Create The Multiplication Table (From 1 To 10) Of A Number |
 | 40-Calculate_No_of_Digits_and_Letters.py | Accepts A String And Calculate The Number Of Digits And Letters Sample Data |
+| 41-Pattern_using_Nested_Loop_Asterisk.py | Construct Asterisk Pattern, Using a Nested For Loop |
+| 42-Pattern_using_Nested_Loop_Numbers_1.py | Construct Numbers Pattern-1, Using a Nested For Loop |
+| 43-Pattern_using_Nested_Loop_Numbers_2.py | Construct Numbers Pattern-2, Using a Nested For Loop |
 
 
 
