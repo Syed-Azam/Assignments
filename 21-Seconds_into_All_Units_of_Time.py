@@ -1,4 +1,4 @@
-# Ai Assignment 20 - Convert Seconds into All Units Of Time
+# Ai Assignment 20 - Convert Seconds into all Units Of Time
 print("Convert Seconds into All Units Of Time")
 ss = int(input("Input Seconds: "))
 d = ss // (24 * 3600)
